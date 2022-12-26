@@ -1,11 +1,6 @@
 데이콘 : 한국어 문장 관계 분류 경진대회 최종 8위
 
 # readme
-├ requirements 
-
-└ transformers ==
-
-└ adamp == 
 
 python Data_preprocessing.py 
 
